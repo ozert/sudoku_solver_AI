@@ -10,4 +10,4 @@ It uses backtracking and heuristic algorithms to solve even the most extreme sud
 
 
 ### Video for easy and "Not Fun" Boards
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.linkedin.com/feed/update/urn:li:activity:6616275142794326016/)
+[![Watch the video](https://i.ytimg.com/an_webp/Cs4pDm_2hR4/mqdefault_6s.webp?du=3000&sqp=CMyX5_wF&rs=AOn4CLDrosL0bkj2MVUO4o-m8HJqmTl2Zg)](https://www.linkedin.com/feed/update/urn:li:activity:6616275142794326016/)
