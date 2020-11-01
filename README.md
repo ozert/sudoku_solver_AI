@@ -1,4 +1,4 @@
-# sudoku_solver_AI [![HitCount](http://hits.dwyl.com/Ozer-T/sudoku_solver_AI.svg)](http://hits.dwyl.com/Ozer-T/sudoku_solver_AI)
+# sudoku_solver_AI [![HitCount](http://hits.dwyl.com/ozert/sudoku_solver_AI.svg)](http://hits.dwyl.com/ozert/sudoku_solver_AI)
 It uses backtracking and heuristic algorithms to solve even the most extreme sudoku boards.
 
 
