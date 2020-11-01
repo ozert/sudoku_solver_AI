@@ -1,4 +1,4 @@
-# sudoku_solver_AI [![HitCount](http://hits.dwyl.com/ozert/sudoku_solver_AI.svg)](http://hits.dwyl.com/ozert/sudoku_solver_AI)
+# sudoku_solver_AI ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2Fsudoku_solver_AI)
 It uses backtracking and heuristic algorithms to solve even the most extreme sudoku boards.
 
 
